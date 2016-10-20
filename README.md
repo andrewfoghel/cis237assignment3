@@ -1,7 +1,7 @@
 # Assignment 3 - Inheritance, Abstract Classes, Interfaces, and Polymorphism
 ## Due: 10-18-2016
 
-## Author
+## Andrew Foghel
 
 
 
