@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace cis237assignment3
+﻿namespace cis237assignment3
 {
-    interface IDroid
+    internal interface IDroid
     {
+        
+        decimal totalCost { get; set; }
         void CalculateTotalCost();
 
-        decimal TotalCost { get; set; }
     }
 }
